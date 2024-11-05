@@ -7,4 +7,5 @@ So here’s the deal: I'm trying to build a deepfake detector, but scraping a de
 2. Use self-supervised learning to boost accuracy.
 3. Tune this thing till it actually works.
    
+   
 **Shoot me a message if you wanna jump in!**
